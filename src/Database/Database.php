@@ -3,7 +3,6 @@
 namespace nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Database;
 
 use nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Base\BaseCore;
-use nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Database\Traits\SignatureTable;
 use nguyenanhung\MyDatabase\Model\BaseModel;
 
 /**
@@ -15,8 +14,6 @@ use nguyenanhung\MyDatabase\Model\BaseModel;
  */
 class Database extends BaseCore
 {
-    use SignatureTable;
-
     /** @var array $database */
     protected $database;
 
