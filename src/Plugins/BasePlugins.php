@@ -1,13 +1,13 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Plugins;
+namespace nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Plugins;
 
-use nguyenanhung\WebBuilderModules\Platforms\Your_Module\Base\BaseCore;
+use nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Base\BaseCore;
 
 /**
  * Class BasePlugins
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Plugins
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Plugins
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

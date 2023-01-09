@@ -1,11 +1,11 @@
 <?php
 
-namespace nguyenanhung\WebBuilderModules\Platforms\Your_Module\Database\Traits;
+namespace nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Database\Traits;
 
 /**
  * Trait SignatureTable
  *
- * @package   nguyenanhung\WebBuilderModules\Platforms\Your_Module\Database\Traits
+ * @package   nguyenanhung\WebBuilderModules\Platforms\BasePlugins\Database\Traits
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
  */

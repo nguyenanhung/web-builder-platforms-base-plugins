@@ -1,6 +1,8 @@
-# Web Builder SDK Module - Template
+[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/web-builder-platforms-base-plugins/v)](https://packagist.org/packages/nguyenanhung/web-builder-platforms-base-plugins) [![Total Downloads](http://poser.pugx.org/nguyenanhung/web-builder-platforms-base-plugins/downloads)](https://packagist.org/packages/nguyenanhung/web-builder-platforms-base-plugins) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/web-builder-platforms-base-plugins/v/unstable)](https://packagist.org/packages/nguyenanhung/web-builder-platforms-base-plugins) [![License](http://poser.pugx.org/nguyenanhung/web-builder-platforms-base-plugins/license)](https://packagist.org/packages/nguyenanhung/web-builder-platforms-base-plugins) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/web-builder-platforms-base-plugins/require/php)](https://packagist.org/packages/nguyenanhung/web-builder-platforms-base-plugins)
 
-Base Module for Web Builder SDK
+# Web Builder SDK Module - Base Plugins
+
+Base Plugins for Web Builder SDK
 
 ## Contact & Support
 

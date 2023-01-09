@@ -1,14 +1,16 @@
 {
     "type": "library",
-    "name": "nguyenanhung/template-web-builder-sdk-module",
-    "description": "Structure Repository Template for Web Builder Module Service Package",
+    "name": "nguyenanhung/web-builder-platforms-base-plugins",
+    "description": "Web Builder Platforms - Base Plugins",
     "keywords": [
-        "frontend",
+        "web builder sdk",
+        "web builder platforms",
+        "web builder plugins",
         "helper",
         "library",
         "php"
     ],
-    "homepage": "https://github.com/nguyenanhung/template-web-builder-sdk-module",
+    "homepage": "https://github.com/nguyenanhung/web-builder-platforms-base-plugins",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -23,26 +25,26 @@
         "php": ">=7.1.3",
         "ext-curl": "*",
         "ext-json": "*",
-        "ext-mbstring": "*"
-    },
-    "require-dev": {
-        "symfony/polyfill": "^1.26",
+        "ext-mbstring": "*",
         "nguyenanhung/my-debug": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/my-cache": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/database": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/security": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/requests": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/monitor": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/image": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/helpers": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/seo": "^3.0 || ^2.0 || ^1.0",
+        "nguyenanhung/monitor": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/web-builder-helper": "^1.0",
-        "nguyenanhung/web-builder-templates": "^1.0",
+        "nguyenanhung/web-builder-templates": "^1.0"
+    },
+    "require-dev": {
+        "nguyenanhung/image": "^3.0 || ^2.0 || ^1.0",
+        "symfony/polyfill": "^1.26",
         "tramtro/make-some-noise": "^1.0"
     },
     "autoload": {
         "psr-4": {
-            "nguyenanhung\\WebBuilderModules\\Platforms\\Your_Module\\": "src/"
+            "nguyenanhung\\WebBuilderModules\\Platforms\\BasePlugins\\": "src/"
         },
         "files": [
             "helpers/helpers.php"
